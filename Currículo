@@ -1,0 +1,76 @@
+<html>
+    <meta charset_"utf-8">
+
+    <background>
+    <hr>
+    <head>
+        <title>Curriculo</title>
+        <br><h1><center><strong><u>Currículo</u></strong></center></h1></br>
+   <hr> </hr>
+       <h2> <center><strong>Pedro Henrique Moreira Silva</strong></center></body></h2>
+      <hr> 
+        </head>
+      <body>
+      <style>
+        body{
+
+            background: #858585;
+            color: white;
+            
+        }
+        </style>
+       <h2><center><mark><u>Dados</u></mark></center></h2>
+       <em>
+         <ul>
+           <br> <li>Status:Lobo solitario</li>
+            <li>Nacimento:05/01/2008</li>
+            <li>Número: 55+ 45 99928-8727</li>
+            <li>Instagram:@p3dr0_f2</li>
+            <li>Facebook: Pedrinho rei delas</li>
+            <li>E-mail: pedro.henrique.ms05012@gmail.com</li>
+            <li>Endereço: Rua goías, 105--Cidade:STI--Estado:Paraná--País:Brasil</li>
+            </br>
+         </ul>
+        
+         </em>
+         <h2>
+          <center><strong><mark><u>Objetivos</u></mark></strong></center>
+          </h2>
+          <ul>
+            
+          <li><em>Quero atuar na área de engenharia de software</em></li>
+          <li><em>Me tornar muito bem sucedido neste ramo</em></li>
+          
+        </ul>
+          <h2><center><strong><mark><u>Habilidades</u></mark></strong></center></h2>
+          <ul>
+            <em>
+            <li>
+               Inglês avançado
+            </li>
+            <li>
+               meu recorde de tempo do cúbo mágico são de 50 segundos
+            </li>
+            <li>
+                Quase um Músico
+            </li>
+            <li>
+                atleta nos esportes kickbox e wrestling
+            </li>
+            <li>
+                Informática
+            </li>
+            </em>
+          </ul> 
+          <h2><center><strong><mark><u>Experiência</u></mark></strong></center></h2>
+           <ul>
+            <em>
+            <li>
+                Personal treiner
+            </li>
+            <li>
+                entregador de panfletos
+            </li>
+           </ul>
+           </em>
+    </body>
